@@ -1,0 +1,2 @@
+# CISE2181_Proposal_Artificial_Dumb
+M11517006 資工碩一機器學習期中專題
